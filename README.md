@@ -1,6 +1,6 @@
 # Check_MK-2.0.0.
 ## Phần 1: Cài Đặt.
-### 1.Cài đặt trên server.
+### 1.Cài đặt trên server Ubuntu 20.04.
 ### 1.1. Tải file cài đặt OMD - Check MK
 ```
 wget https://download.checkmk.com/checkmk/2.0.0p1/check-mk-raw-2.0.0p1_0.focal_amd64.deb
@@ -63,3 +63,4 @@ http://10.5.92.179/monitoring
 **Chú ý**: Thay địa chỉ IP của bạn vào đường dẫn và đăng nhập theo `omdadmin/omd`
 ![Screenshot from 2021-03-29 11-04-55](https://user-images.githubusercontent.com/71110126/112785644-aac13580-907e-11eb-8ab9-270c81e62491.png)
 ![Screenshot from 2021-03-29 11-05-09](https://user-images.githubusercontent.com/71110126/112785649-ae54bc80-907e-11eb-8cb3-64201eacac5e.png)
+
